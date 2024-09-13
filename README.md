@@ -1,8 +1,10 @@
 # Sobre mim
 - 👋 Olá, meu nome é @demetriotorgan
-- 👀 Tenho interesse em Java Script.
-- 🌱 Atualmente estou aprendendo Java Script.
+- 👀 Java Script, NodeJS, Type Script, React, Fastify, Prisma, C, Java.
+- 🌱 Professor em Desenvolvimento de Sistemas.
 - 📫 email: demetriotorgan@hotmail.com
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=demetriotorgan&layout=donut&langs_count=25&theme=omni"/>
 
 <!---
 demetriotorgan/demetriotorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
